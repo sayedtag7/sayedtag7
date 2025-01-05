@@ -26,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="Apache" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
@@ -38,9 +36,9 @@
 ---
 
 ### 🔭 Current Projects:
-- 🌌 **Educational App for Kids**: Leveraging SQL databases to manage user data and activity logs for personalized learning experiences.
-- 📊 **Data-Driven Decision Systems**: Using SQL for data extraction, transformation, and visualization to support AI-based solutions.
-- 🗄 **Database Optimization Research**: Studying indexing and query optimization techniques for SQL-driven systems.
+- 🌌 **Educational App for Kids**: Developing interactive learning tools tailored for children, including students with autism, to make education engaging through games.
+- 📊 **Data-Driven Decision Systems**: AI-based solutions for business growth and operational excellence.
+- 🌍 **AI in Economic Growth Research**: Exploring AI's role in improving decision-making and economic outcomes.
 
 ---
 
@@ -56,7 +54,6 @@
 ### 🌟 Featured Achievements:
 - 🏆 **Galactic Problem Solver** - NASA Space Apps Challenge 2024
 - 📜 **Data Science & Analytics** - Certified by HP
-- 🥇 **SQL Data Analytics Certification** - Recognized by [Certifying Organization]  
 - 🌐 **Rally Society President** - Leadership at New Mansoura University
 - 🎓 **Graduation Project** - Digital Egypt Pioneers Initiative: AI-driven Production Quality Monitoring System
 
