@@ -54,7 +54,7 @@
 ### 🌟 Featured Achievements:
 - 🏆 **Galactic Problem Solver** - NASA Space Apps Challenge 2024
 - 📜 **Data Science & Analytics** - Certified by HP
-- 🥇 **SQL Data Analytics Certification** - Recognized by [Certifying Organization]  
+- 🥇 **SQL Data Analytics Certification** - Recognized by DPEI  
 - 🌐 **Rally Society President** - Leadership at New Mansoura University
 - 🎓 **Graduation Project** - Digital Egypt Pioneers Initiative: AI-driven Production Quality Monitoring System
 
