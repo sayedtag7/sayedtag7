@@ -1,54 +1,48 @@
-<h1 align="center">Hi 👋! Welcome to my GitHub</h1>
-<h2 align="center">I'm Sayed Ahmed Tag-Eldin</h2>
+<h2 align="center">Hi 👋! Welcome to my GitHub, I'm Sayed Ahmed Tag-Eldin</h2>
 
-<h3 align="center">🚀 Data Scientist | ML Engineer | AI Enthusiast 🌍</h3>
+<h3 align="center">🚀 Data Scientist | ML Engineer | AI Enthusiast from Egypt 🌍</h3>
 
 ---
 
-<h4 align="center">
-  Crafting data-driven solutions to unlock impactful insights, drive innovation, and empower strategic decision-making. 🚀 My expertise spans AI, Machine Learning, Data Engineering, Data Analysis, Visualization, and Microsoft Technologies. I thrive in leveraging technology to create impactful and innovative solutions.
-</h4>
+<h4 align="center">Crafting data-driven solutions to unlock impactful insights, drive innovation, and empower strategic decision-making. 🚀 My expertise spans AI, Machine Learning, Data Engineering, Data Analysis, Visualization, and Microsoft Technologies. I thrive in leveraging technology to create impactful and innovative solutions.</h4>
 
 ---
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" />
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding in progress" />
 </div>
 
 ---
 
-### 🛠️ **Tech Stack & Tools**
-
+### 🛠 Tech Stack & Tools:
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" title="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server" title="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="Apache" title="Apache" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV" title="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" title="Django" />
 </div>
 
 ---
 
-### 🔭 **Current Projects**
-
+### 🔭 Current Projects:
 - 🌌 **Educational App for Kids**: Leveraging SQL databases to manage user data and activity logs for personalized learning experiences.
 - 📊 **Data-Driven Decision Systems**: Using SQL for data extraction, transformation, and visualization to support AI-based solutions.
 - 🗄 **Database Optimization Research**: Studying indexing and query optimization techniques for SQL-driven systems.
 
 ---
 
-### 📊 **GitHub Stats**
-
+### 📈 My GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayedtag7&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=sayedtag7&theme=tokyonight&hide_border=false" height="150" alt="Streak stats" />
@@ -57,8 +51,7 @@
 
 ---
 
-### 🌟 **Featured Achievements**
-
+### 🌟 Featured Achievements:
 - 🏆 **Galactic Problem Solver** - NASA Space Apps Challenge 2024
 - 📜 **Data Science & Analytics** - Certified by HP
 - 🥇 **SQL Data Analytics Certification** - Recognized by DPEI  
@@ -67,26 +60,25 @@
 
 ---
 
-### 🌍 **Connect With Me**
-
+### 🌍 Connect With Me:
 <div align="center">
   <a href="https://www.linkedin.com/in/sayedtageldin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn" title="LinkedIn" />
   </a>
   <a href="mailto:sayedtag777@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" alt="Gmail" title="Gmail" />
   </a>
   <a href="https://www.facebook.com/tag.sayedtag" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" alt="Facebook" title="Facebook" />
   </a>
   <a href="https://x.com/Sayed_tag7" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" alt="Twitter" title="Twitter" />
   </a>
   <a href="https://www.instagram.com/sayed_tag7" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" alt="Instagram" title="Instagram" />
   </a>
   <a href="https://wa.me/qr/NSXLWHMCH3DAE1" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" alt="WhatsApp" title="WhatsApp" />
   </a>
 </div>
 
@@ -99,8 +91,11 @@
 
 ---
 
-### 📚 **Latest Articles**
-
+### 📚 Latest Articles:
 - **AI and Economic Growth**: [Read here](#)
 - **Educational Apps for Kids**: [Read here](#)
 - **Top ML Frameworks in 2025**: [Read here](#)
+
+---
+
+<h4 align="center">🚀 Let's build the future together!</h4>
