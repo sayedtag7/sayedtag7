@@ -1,16 +1,20 @@
-# 👋 Welcome to My GitHub Profile
+[<h2 align="center">Hi 👋! Welcome to my GitHub, I'm Sayed Ahmed Tag-Eldin</h2>
 
-## Hi, I'm Sayed Ahmed Tag-Eldin  
-### 🚀 Data Scientist | ML Engineer | AI Enthusiast | Egypt 🌍  
-
----
-
-### 🎯 **Career Objectives**
-Crafting data-driven solutions to unlock impactful insights, drive innovation, and empower strategic decision-making. I thrive in leveraging cutting-edge technologies to create innovative solutions that make a difference.
+<h3 align="center">🚀 Data Scientist | ML Engineer | AI Enthusiast from Egypt 🌍</h3>
 
 ---
 
-### 🛠 **Technical Skills**
+<h4 align="center">Crafting data-driven solutions to unlock impactful insights, drive innovation, and empower strategic decision-making. 🚀 My expertise spans AI, Machine Learning, Data Engineering, Data Analysis, Visualization, and Microsoft Technologies. I thrive in leveraging technology to create impactful and innovative solutions.</h4>
+
+---
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" />
+</div>
+
+---
+
+### 🛠 Tech Stack & Tools:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
@@ -20,7 +24,9 @@ Crafting data-driven solutions to unlock impactful insights, drive innovation, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="Apache" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV" />
@@ -29,23 +35,14 @@ Crafting data-driven solutions to unlock impactful insights, drive innovation, a
 
 ---
 
-### 📂 **Featured Projects**
-
-#### 🌌 **Educational App for Kids**  
-- **Description**: An engaging mobile app that helps children, especially autistic students, learn interactively through games and activities.  
-- **Tech Stack**: SQL, Python, Game Development Frameworks, Microsoft Azure  
-
-#### 📊 **Data-Driven Decision Systems**  
-- **Description**: Developing a system for data extraction, transformation, and visualization to support AI-driven decision-making processes.  
-- **Tech Stack**: SQL, Tableau, Python, Pandas, Azure Machine Learning  
-
-#### 🗄️ **Database Optimization Research**  
-- **Description**: Researching indexing and query optimization techniques to enhance the performance of SQL-based systems.  
-- **Tech Stack**: PostgreSQL, SQL Server, Python  
+### 🔭 Current Projects:
+- 🌌 **Educational App for Kids**: Leveraging SQL databases to manage user data and activity logs for personalized learning experiences.
+- 📊 **Data-Driven Decision Systems**: Using SQL for data extraction, transformation, and visualization to support AI-based solutions.
+- 🗄 **Database Optimization Research**: Studying indexing and query optimization techniques for SQL-driven systems.
 
 ---
 
-### 📈 **GitHub Stats**
+### 📈 My GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayedtag7&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=sayedtag7&theme=tokyonight&hide_border=false" height="150" alt="Streak stats" />
@@ -54,22 +51,16 @@ Crafting data-driven solutions to unlock impactful insights, drive innovation, a
 
 ---
 
-### 🌟 **Areas of Expertise & Interests**
-- **AI & Machine Learning**: Building models to solve complex real-world problems
-- **Data Engineering**: Designing and managing scalable data pipelines
-- **Visualization**: Communicating insights through compelling visual tools
-- **Microsoft Technologies**: Using advanced tools and services for innovation
+### 🌟 Featured Achievements:
+- 🏆 **Galactic Problem Solver** - NASA Space Apps Challenge 2024
+- 📜 **Data Science & Analytics** - Certified by HP
+- 🥇 **SQL Data Analytics Certification** - Recognized by DPEI  
+- 🌐 **Rally Society President** - Leadership at New Mansoura University
+- 🎓 **Graduation Project** - Digital Egypt Pioneers Initiative: AI-driven Production Quality Monitoring System
 
 ---
 
-### 📚 **Current Learning Goals**
-- Exploring advancements in **Reinforcement Learning**
-- Diving deeper into **Graph Neural Networks**
-- Researching best practices in **Database Optimization**
-
----
-
-### 🌍 **Connect With Me**
+### 🌍 Connect With Me:
 <div align="center">
   <a href="https://www.linkedin.com/in/sayedtageldin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn" />
@@ -100,9 +91,8 @@ Crafting data-driven solutions to unlock impactful insights, drive innovation, a
 
 ---
 
-### 🌟 **Featured Achievements**
-- 🏆 **Galactic Problem Solver** - NASA Space Apps Challenge 2024
-- 📜 **Data Science & Analytics** - Certified by HP
-- 🥇 **SQL Data Analytics Certification** - Recognized by DPEI
-- 🌐 **Rally Society President** - Leadership at New Mansoura University
-- 🎓 **Graduation Project** - AI-driven Production Quality Monitoring System
+### 📚 Latest Articles:
+- **AI and Economic Growth**: [Read here](#)
+- **Educational Apps for Kids**: [Read here](#)
+- **Top ML Frameworks in 2025**: [Read here](#)
+]
