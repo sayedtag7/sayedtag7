@@ -47,7 +47,7 @@
 
 ---
 
-### 📈 **GitHub Stats**
+### 📊 **GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayedtag7&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub stats" />
