@@ -1,4 +1,4 @@
-[<h2 align="center">Hi 👋! Welcome to my GitHub, I'm Sayed Ahmed Tag-Eldin</h2>
+<h2 align="center">Hi 👋! Welcome to my GitHub, I'm Sayed Ahmed Tag-Eldin</h2>
 
 <h3 align="center">🚀 Data Scientist | ML Engineer | AI Enthusiast from Egypt 🌍</h3>
 
