@@ -1,75 +1,74 @@
-# 🌌 Sayed Tag-Eldin  
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00CFFF&height=250&section=header&text=Sayed%20Tag-Eldin&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+</p>
 
-<div align="center">
-
-![Header](https://img.shields.io/badge/AI%20%7C%20ML%20Engineer%20%7C%20Data%20Scientist-007BFF?style=for-the-badge&logo=github&logoColor=white)
-
-[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-www.sayedtag.me-1E90FF?style=for-the-badge)](http://www.sayedtag.me)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayed%20Tag--Eldin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayedtageldin)  
-[![GitHub](https://img.shields.io/badge/GitHub-sayedtageldin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayedtageldin)  
-[![Twitter](https://img.shields.io/badge/Twitter-@Sayed__tag7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Sayed_tag7)  
-
-</div>  
+<h3 align="center">🚀 AI/ML Engineer | Data Scientist | Tech Community Leader</h3>
+<p align="center">
+  <a href="http://www.sayedtag.me"><img src="https://img.shields.io/badge/🌍%20Portfolio-www.sayedtag.me-1E90FF?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/sayedtageldin"><img src="https://img.shields.io/badge/LinkedIn-Sayed%20Tag--Eldin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/sayedtageldin"><img src="https://img.shields.io/badge/GitHub-sayedtageldin-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://x.com/Sayed_tag7"><img src="https://img.shields.io/badge/Twitter-@Sayed__tag7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
 
 ---
 
 ## 👋 About Me  
 
-My name is **Sayed Tag-Eldin**, and I’m a passionate **AI/ML Engineer and Data Scientist** based in **Egypt**.  
-I’ve been deeply involved in AI and data-driven technologies through **academic projects, freelancing roles, and international competitions**.  
+I’m **Sayed Tag-Eldin**, a passionate **AI/ML Engineer and Data Scientist** from **Egypt**.  
+I thrive on building **AI solutions that solve real-world problems** — not just experiments in notebooks, but production-ready systems with tangible impact.  
 
-Over the past year, I’ve worked on several impactful projects. One of the most notable was an **AI-powered Quality Management System** for over 50 manufacturers, where I led the development of intelligent analytics and predictive models to improve production quality.  
-
-I also had the honor of securing **2nd place globally in the Huawei ICT Competition in China**, where my team developed an innovative AI solution under real-world pressure. Additionally, I ranked **1st in the Benha Hackathon 2025** with **Smile App**, an AI tool that supports autistic students with emotional recognition and response.  
-
-I’m also active in the tech community:  
-- **Beta Microsoft Learn Student Ambassador**  
-- **Huawei Cloud Ambassador**  
-- **President of Rally Society at New Mansoura University**, mentoring students and organizing tech events  
+- 🏭 Built an **AI-powered Quality Management System** for **50+ manufacturers**, integrating predictive analytics to improve production quality.  
+- 🏆 **2nd place globally** at the **Huawei ICT Competition in China**.  
+- 🥇 **1st place at Benha Hackathon 2025** with **Smile App**, supporting autistic students via AI-based emotion recognition.  
+- 🌍 Active community leader: **Beta Microsoft Learn Student Ambassador**, **Huawei Cloud Ambassador**, and **President of Rally Society** at New Mansoura University.  
 
 ---
 
 ## 🚀 Highlight Projects  
 
-### 1️⃣ EVANA – Robotic Arm for Surgical Assistance  
-**EVANA** is an AI-powered robotic arm designed to assist surgeons by automating surgical tool handling.  
-- 🛠️ **Computer Vision (YOLO)** for real-time tool recognition  
-- 🎙️ **NLP** for interpreting surgeons’ voice commands  
-- ⚙️ Built with **3D-printed frame** + **Arduino-controlled servos**  
-- ✅ Reduces contamination risks, enhances surgical efficiency, and is adaptable to multiple surgical specialties  
+### 🔹 EVANA – Robotic Arm for Surgical Assistance  
+> *AI-powered robotic arm assisting surgeons by automating surgical tool handling*  
+- 🛠 **YOLO-based Computer Vision** for tool recognition  
+- 🎙 **NLP for voice commands** to deliver instruments  
+- ⚙️ Hardware: 3D-printed frame + Arduino-controlled servos  
+- ✅ Enhances efficiency, reduces contamination, and adapts to various surgical specialties  
 
 ---
 
-### 2️⃣ AI-Powered Quality Management System  
-Developed for **50+ manufacturers**, this project integrated **predictive models and intelligent analytics** to improve production quality and minimize defects.  
+### 🔹 AI-Powered Quality Management System  
+- Deployed across **50+ factories**  
+- Integrated **predictive models** to reduce defects and optimize production  
 
 ---
 
-### 3️⃣ Smile App – AI for Autism Support  
-An award-winning mobile app that uses **AI-based emotion recognition** to help autistic students identify and respond to emotions in social interactions.  
+### 🔹 Smile App – AI for Autism Support  
+- **1st Place – Benha Hackathon 2025**  
+- Mobile app using **AI emotion recognition** to help autistic students identify and respond to emotions  
 
 ---
 
-### 4️⃣ Huawei ICT Global Competition – AI Solutions  
-Secured **2nd place globally** with a team project focused on **AI-driven smart solutions** under real-world problem constraints.  
+### 🔹 Huawei ICT Global Competition  
+- **2nd place worldwide** 🌏  
+- Developed **AI-driven smart solutions** under strict real-world constraints  
 
 ---
 
 ## 🛠️ Technical Skills  
 
-- **Languages**: Python, SQL, C#  
-- **ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn  
-- **Data Engineering**: Docker, PostgreSQL, Apache Spark, Apache Kafka  
-- **Cloud**: Azure ML Services, Huawei Cloud  
-- **Other Tools**: Git, Streamlit, SFML GUI  
+**Languages:** Python | SQL | C#  
+**Frameworks:** TensorFlow | PyTorch | Scikit-learn  
+**Data Engineering:** Docker | PostgreSQL | Spark | Kafka  
+**Cloud:** Azure ML | Huawei Cloud  
+**Other Tools:** Git | Streamlit | SFML GUI  
 
 ---
 
 ## 🎖️ Achievements  
 
-- 🥈 **2nd Place – Huawei ICT Global Competition (China)**  
-- 🥇 **1st Place – Benha Hackathon 2025** (Smile App for Autism Support)  
-- 🏆 **Galactic Problem Solver – NASA Space Apps 2024**  
+- 🥈 **Huawei ICT Global Competition (China) – 2nd Place**  
+- 🥇 **Benha Hackathon 2025 – 1st Place**  
+- 🚀 **Galactic Problem Solver – NASA Space Apps 2024**  
 - 📜 **Certified in Data Science & Analytics (HP, DPEI)**  
 
 ---
@@ -82,4 +81,8 @@ Secured **2nd place globally** with a team project focused on **AI-driven smart 
 📌 Email: **sayedtag777@gmail.com**  
 
 ---
-⭐ *“My strength lies not just in technical skills, but in aligning AI with real business problems to deliver real-world impact.”*  
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:007BFF&height=150&section=footer" />
+</p>
