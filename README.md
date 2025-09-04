@@ -1,117 +1,111 @@
-<h1 align="center">👋 Hi, I'm Sayed Ahmed Tag-Eldin</h1>
-<h3 align="center">🚀 Data Scientist | ML Engineer | AI Enthusiast from Egypt 🌍</h3>
+<!-- ===========================
+     Sayed Tag-Eldin — README
+=========================== -->
 
----
-
+<!-- Gradient Header -->
 <p align="center">
-Crafting data-driven solutions to unlock impactful insights, drive innovation, and empower strategic decision-making.  
-My expertise spans <b>AI, Machine Learning, Data Engineering, Data Analysis, Visualization,</b> and <b>Microsoft Technologies</b>.  
-I thrive on leveraging technology to create impactful and innovative solutions. ✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00cc99&height=120&section=header&text=SAYED%20TAG-ELDIN%20%7C%20AI%20%26%20ML%20Engineer&fontColor=ffffff&fontSize=32&animation=twinkling&fontAlignY=35" alt="Header"/>
 </p>
 
----
+<!-- Thick separator -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0066ff,100:00cc99&height=10" alt="separator" />
+</p>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
 My name is **Sayed Tag-Eldin**, and I’m a passionate **AI/ML Engineer** and **Data Scientist** based in Egypt.  
 I’ve been deeply involved in AI and data-driven technologies through **academic projects, freelancing roles, and international competitions**.
 
-- 🏭 **AI-powered Quality Management System** → Led development for over **50 manufacturers**, building predictive models to improve production quality.  
-- 🌏 **Huawei ICT Competition (China, Global 2nd Place)** → Developed an innovative AI solution under real-world pressure.  
-- 🥇 **Benha Hackathon 2025 (1st Place)** → Built **Smile App**, an AI-powered emotional recognition tool supporting autistic students.  
-- 👥 **Community Leadership** → Beta **Microsoft Learn Student Ambassador**, **Huawei Cloud Ambassador**, and current **President of Rally Society** at New Mansoura University.  
+- 🏭 **AI-powered Quality Management System** → Led development for **50+ manufacturers** using predictive models.  
+- 🌏 **Huawei ICT Competition (2nd Place, Global — China)** → Delivered innovative AI solution under real-world pressure.  
+- 🥇 **Benha Hackathon 2025 (1st Place)** → Created **Smile App**, AI for autistic students (emotional recognition & support).  
+- 👥 **Leadership Roles** → **Microsoft Learn Student Ambassador (Beta)**, **Huawei Cloud Ambassador**, and **President of Rally Society** at New Mansoura University.  
 
-Technically, I’m highly skilled in:  
-- 🐍 **Python** and ML frameworks (**TensorFlow, Scikit-learn, PyTorch**)  
-- ☁️ **Azure Services** for ML model deployment  
-- 🐳 **Docker** and scalable systems with **PostgreSQL, Apache Spark, and Kafka**  
-
-💡 My strength lies not just in building models but in **aligning AI with real business problems**, ensuring solutions deliver value in **production environments**.  
+💡 I specialize in **production-ready AI**, bridging the gap between **ML research** and **business impact**.  
 
 ---
 
+<!-- Status & Quick Info -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_Work-Yes-2ea44f?style=for-the-badge&logo=briefcase" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Location-Egypt-0066ff?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Role-Data%20Scientist%20%7C%20ML%20Engineer-00cc99?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Freelance-Available-00b894?style=for-the-badge" alt="Freelance" />
+</p>
+
+<!-- Thick separator -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0066ff,100:00cc99&height=10" alt="separator" />
+</p>
+
+## 🏆 Featured Achievements  
+
 <div align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" />
+  <img src="https://img.icons8.com/fluency/260/trophy.png" width="140" alt="Trophy"/>
+</div>
+
+<div style="background:#E3F2FD; padding:14px; border-radius:10px; margin-bottom:15px; border-left:6px solid #2196F3;">
+  <strong>🥈 Huawei ICT Competition (Global 2nd Place)</strong><br>
+  Represented Egypt in China, building an AI solution recognized on the global stage.
+</div>
+
+<div style="background:#E8F5E9; padding:14px; border-radius:10px; margin-bottom:15px; border-left:6px solid #4CAF50;">
+  <strong>🥇 Benha Hackathon 2025 (1st Place)</strong><br>
+  Built <b>Smile App</b>, an AI-powered emotional recognition system supporting autistic students.
+</div>
+
+<div style="background:#FFF8E1; padding:14px; border-radius:10px; margin-bottom:15px; border-left:6px solid #FFB300;">
+  <strong>🏭 AI-powered Quality Management</strong><br>
+  Led predictive analytics project for over 50 manufacturers, enhancing production efficiency.
 </div>
 
 ---
 
-## 🛠 Tech Stack & Tools
+## ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="Apache" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
 ---
 
-## 🔭 Current Projects
-
-- 🌌 **Educational App for Kids** → SQL-powered learning experiences tailored to student activity.  
-- 📊 **Data-Driven Decision Systems** → AI + SQL pipelines for business intelligence and decision-making.  
-- 🗄 **Database Optimization Research** → Exploring indexing & query optimization for high-performance systems.  
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedtag7&show_icons=true&theme=tokyonight&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=sayedtag7&theme=tokyonight&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedtag7&layout=compact&theme=tokyonight&langs_count=10" height="150" />
-</div>
-
----
-
-## 🌟 Featured Achievements
-
-| 🏆 Achievement | 📖 Details |
-|----------------|-----------|
-| **Galactic Problem Solver** | NASA Space Apps Challenge 2024 |
-| **Huawei ICT Competition (2nd Place, Global)** | AI Innovation in China |
-| **Benha Hackathon 2025 (1st Place)** | Smile App for autistic students |
-| **Data Science & Analytics** | Certified by HP |
-| **SQL Data Analytics Certification** | Recognized by DPEI |
-| **Rally Society President** | Leading initiatives at New Mansoura University |
-| **Graduation Project** | AI-driven Production Quality Monitoring (Digital Egypt Pioneers Initiative) |
-
----
-
-## 📚 Latest Articles
-
-- 📖 [AI and Economic Growth](#)  
-- 🎮 [Educational Apps for Kids](#)  
-- ⚡ [Top ML Frameworks in 2025](#)  
-
----
-
-## 🌍 Connect With Me
+## 📊 GitHub Highlights  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sayedtageldin"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" /></a>
-  <a href="mailto:sayedtag777@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" /></a>
-  <a href="https://www.facebook.com/tag.sayedtag"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" /></a>
-  <a href="https://x.com/Sayed_tag7"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" /></a>
-  <a href="https://www.instagram.com/sayed_tag7"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" /></a>
-  <a href="https://wa.me/qr/NSXLWHMCH3DAE1"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sayedtag7&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedtag7&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sayedtag7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="mailto:sayedtag777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sayedtageldin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Sayed_tag7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sayed_tag7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<!-- Thick separator -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0066ff,100:00cc99&height=10" alt="separator" />
+</p>
+
+<!-- Footer Snake Animation -->
 <div align="center">
-  <h4>🐍 Watch my contribution graph grow:</h4>
   <img src="https://raw.githubusercontent.com/sayedtag7/sayedtag7/output/snake.svg" alt="Snake animation" />
 </div>
