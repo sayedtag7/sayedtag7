@@ -142,7 +142,9 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
   &nbsp;&nbsp;
   <a href="http://www.sayedtag.me"><img src="https://img.shields.io/badge/🌍%20Website-www.sayedtag.me-1E90FF?style=for-the-badge" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sayedtageldin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linktr.ee/sayedtageldin">
+  <img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=contactlesspayment&logoColor=white" />
+</a>
 </p>
 
 ---
