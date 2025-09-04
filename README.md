@@ -1,10 +1,32 @@
-<h2 align="center">Hi 👋! Welcome to my GitHub, I'm Sayed Ahmed Tag-Eldin</h2>
-
+<h1 align="center">👋 Hi, I'm Sayed Ahmed Tag-Eldin</h1>
 <h3 align="center">🚀 Data Scientist | ML Engineer | AI Enthusiast from Egypt 🌍</h3>
 
 ---
 
-<h4 align="center">Crafting data-driven solutions to unlock impactful insights, drive innovation, and empower strategic decision-making. 🚀 My expertise spans AI, Machine Learning, Data Engineering, Data Analysis, Visualization, and Microsoft Technologies. I thrive in leveraging technology to create impactful and innovative solutions.</h4>
+<p align="center">
+Crafting data-driven solutions to unlock impactful insights, drive innovation, and empower strategic decision-making.  
+My expertise spans <b>AI, Machine Learning, Data Engineering, Data Analysis, Visualization,</b> and <b>Microsoft Technologies</b>.  
+I thrive on leveraging technology to create impactful and innovative solutions. ✨
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+My name is **Sayed Tag-Eldin**, and I’m a passionate **AI/ML Engineer** and **Data Scientist** based in Egypt.  
+I’ve been deeply involved in AI and data-driven technologies through **academic projects, freelancing roles, and international competitions**.
+
+- 🏭 **AI-powered Quality Management System** → Led development for over **50 manufacturers**, building predictive models to improve production quality.  
+- 🌏 **Huawei ICT Competition (China, Global 2nd Place)** → Developed an innovative AI solution under real-world pressure.  
+- 🥇 **Benha Hackathon 2025 (1st Place)** → Built **Smile App**, an AI-powered emotional recognition tool supporting autistic students.  
+- 👥 **Community Leadership** → Beta **Microsoft Learn Student Ambassador**, **Huawei Cloud Ambassador**, and current **President of Rally Society** at New Mansoura University.  
+
+Technically, I’m highly skilled in:  
+- 🐍 **Python** and ML frameworks (**TensorFlow, Scikit-learn, PyTorch**)  
+- ☁️ **Azure Services** for ML model deployment  
+- 🐳 **Docker** and scalable systems with **PostgreSQL, Apache Spark, and Kafka**  
+
+💡 My strength lies not just in building models but in **aligning AI with real business problems**, ensuring solutions deliver value in **production environments**.  
 
 ---
 
@@ -14,8 +36,9 @@
 
 ---
 
-### 🛠 Tech Stack & Tools:
-<div align="center">
+## 🛠 Tech Stack & Tools
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
@@ -31,56 +54,60 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
-</div>
+</p>
 
 ---
 
-### 🔭 Current Projects:
-- 🌌 **Educational App for Kids**: Leveraging SQL databases to manage user data and activity logs for personalized learning experiences.
-- 📊 **Data-Driven Decision Systems**: Using SQL for data extraction, transformation, and visualization to support AI-based solutions.
-- 🗄 **Database Optimization Research**: Studying indexing and query optimization techniques for SQL-driven systems.
+## 🔭 Current Projects
+
+- 🌌 **Educational App for Kids** → SQL-powered learning experiences tailored to student activity.  
+- 📊 **Data-Driven Decision Systems** → AI + SQL pipelines for business intelligence and decision-making.  
+- 🗄 **Database Optimization Research** → Exploring indexing & query optimization for high-performance systems.  
 
 ---
 
-### 📈 My GitHub Stats:
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedtag7&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=sayedtag7&theme=tokyonight&hide_border=false" height="150" alt="Streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedtag7&layout=compact&theme=tokyonight&langs_count=10" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayedtag7&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=sayedtag7&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedtag7&layout=compact&theme=tokyonight&langs_count=10" height="150" />
 </div>
 
 ---
 
-### 🌟 Featured Achievements:
-- 🏆 **Galactic Problem Solver** - NASA Space Apps Challenge 2024
-- 📜 **Data Science & Analytics** - Certified by HP
-- 🥇 **SQL Data Analytics Certification** - Recognized by DPEI  
-- 🌐 **Rally Society President** - Leadership at New Mansoura University
-- 🎓 **Graduation Project** - Digital Egypt Pioneers Initiative: AI-driven Production Quality Monitoring System
+## 🌟 Featured Achievements
+
+| 🏆 Achievement | 📖 Details |
+|----------------|-----------|
+| **Galactic Problem Solver** | NASA Space Apps Challenge 2024 |
+| **Huawei ICT Competition (2nd Place, Global)** | AI Innovation in China |
+| **Benha Hackathon 2025 (1st Place)** | Smile App for autistic students |
+| **Data Science & Analytics** | Certified by HP |
+| **SQL Data Analytics Certification** | Recognized by DPEI |
+| **Rally Society President** | Leading initiatives at New Mansoura University |
+| **Graduation Project** | AI-driven Production Quality Monitoring (Digital Egypt Pioneers Initiative) |
 
 ---
 
-### 🌍 Connect With Me:
-<div align="center">
-  <a href="https://www.linkedin.com/in/sayedtageldin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sayedtag777@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/tag.sayedtag" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" alt="Facebook" />
-  </a>
-  <a href="https://x.com/Sayed_tag7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/sayed_tag7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/qr/NSXLWHMCH3DAE1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" alt="WhatsApp" />
-  </a>
-</div>
+## 📚 Latest Articles
+
+- 📖 [AI and Economic Growth](#)  
+- 🎮 [Educational Apps for Kids](#)  
+- ⚡ [Top ML Frameworks in 2025](#)  
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sayedtageldin"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" /></a>
+  <a href="mailto:sayedtag777@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" /></a>
+  <a href="https://www.facebook.com/tag.sayedtag"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" /></a>
+  <a href="https://x.com/Sayed_tag7"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" /></a>
+  <a href="https://www.instagram.com/sayed_tag7"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" /></a>
+  <a href="https://wa.me/qr/NSXLWHMCH3DAE1"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" /></a>
+</p>
 
 ---
 
@@ -88,11 +115,3 @@
   <h4>🐍 Watch my contribution graph grow:</h4>
   <img src="https://raw.githubusercontent.com/sayedtag7/sayedtag7/output/snake.svg" alt="Snake animation" />
 </div>
-
----
-
-### 📚 Latest Articles:
-- **AI and Economic Growth**: [Read here](#)
-- **Educational Apps for Kids**: [Read here](#)
-- **Top ML Frameworks in 2025**: [Read here](#)
-]
