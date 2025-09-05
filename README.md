@@ -29,7 +29,7 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
 - 🏭 Built an **AI-powered Quality Management System** for **50+ manufacturers**.  
 - 🏆 **2nd place globally** at the **Huawei ICT Competition in China**.  
 - 🥇 **1st place at Benha Hackathon 2025** with **Smile App**.  
-- 🌍 Active leader: **Microsoft Beta MLSA**, **Huawei Cloud Ambassador**, **President of Rally Society**.  
+- 🌍 Active leader: **Microsoft Beta MLSA**, **Huawei Cloud Developer**, **President of Rally Society**, **President of MSC-NMU**.  
 
 ---
 
@@ -40,7 +40,7 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
 </div>
 
 <div style="background:#E3F2FD; padding:14px; border-radius:10px; margin-bottom:20px; border-left:6px solid #2196F3;">
-  <strong>🥈 2nd Place — Huawei ICT Competition (China)</strong><br>
+  <strong>🥈 2nd Place globally — Huawei ICT Competition (China)</strong><br>
   Represented Egypt globally with innovative AI-driven solutions.
 </div>
 
@@ -67,21 +67,15 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
 
 ---
 
-### 🔹 AI-Powered Quality Management System  
-- Deployed across **50+ factories**  
-- Integrated **predictive models** to reduce defects and optimize production  
-
----
-
 ### 🔹 Smile App – AI for Autism Support  
 - **1st Place – Benha Hackathon 2025**  
-- Mobile app using **AI emotion recognition** for autistic students  
+- Mobile app using **AI Care** for autistic students  
 
 ---
 
 ### 🔹 Huawei ICT Global Competition  
 - **2nd place worldwide** 🌏  
-- Developed **AI-driven smart solutions** under strict real-world constraints  
+- Developed **AI smart Robotic Arm "Evana"** for surgical tool handling
 
 ---
 
@@ -142,9 +136,7 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
   &nbsp;&nbsp;
   <a href="http://www.sayedtag.me"><img src="https://img.shields.io/badge/🌍%20Website-www.sayedtag.me-1E90FF?style=for-the-badge" /></a>
   &nbsp;&nbsp;
-  <a href="https://linktr.ee/sayedtageldin">
-  <img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=contactlesspayment&logoColor=white" />
-</a>
+  <a href="https://linktr.ee/sayedtageldin"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=contactlesspayment&logoColor=white" /></a>
 </p>
 
 ---
