@@ -106,7 +106,7 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
 ## 🏅 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayedtageldin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=sayedtag7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -114,7 +114,7 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
 ## 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sayedtageldin&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=sayedtag7&theme=tokyonight&hide_border=true&type=png" height="150"/>
 </p>
 
 ---
