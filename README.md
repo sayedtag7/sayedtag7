@@ -11,12 +11,13 @@
 
 <p align="center">
   <a href="https://www.google.com/search?q=Sayed+Tag-Eldin">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20AI%20Solutions%20for%20Impact;Passionate%20Community%20Leader;Visit%20www.sayedtag.me&font=Fira%20Code&center=true&color=00CFFF&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20AI%20Solutions%20for%20Impact;Passionate%20Community%20Leader;Visit%20www.sayedtag.me&font=Fira%20Code&center=true&color=00CFFF&pause=2000" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayedtageldin&style=flat&color=007BFF"/> <!-- Profile Views -->
+  <!-- ✅ Keep ONE username everywhere -->
+  <img src="https://komarev.com/ghpvc/?username=sayedtageldin&style=flat&color=007BFF" alt="Profile Views"/>
 </p>
 
 ---
@@ -82,14 +83,14 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Huawei%20Cloud-E60012?style=for-the-badge&logo=huawei&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/><br>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Huawei%20Cloud-E60012?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei Cloud"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
@@ -97,8 +98,9 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
 ## 📊 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedtag7&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedtag7&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <!-- ✅ Same username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sayedtageldin&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedtageldin&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
@@ -106,7 +108,11 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
 ## 🏅 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayedtag7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <!-- ✅ FIXED: use correct username + add alt -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sayedtageldin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -114,7 +120,12 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
 ## 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sayedtag7&theme=tokyonight&hide_border=true" height="150"/>
+  <!-- ✅ FIXED: correct username + standard format -->
+  <img
+    src="https://streak-stats.demolab.com?user=sayedtageldin&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -122,7 +133,7 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </p>
 
 ---
@@ -130,13 +141,21 @@ I thrive on building **AI solutions that solve real-world problems** — not jus
 ## 📬 Contact Me  
 
 <p align="center">
-  <a href="mailto:sayedtag777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sayedtag777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sayedtageldin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sayedtageldin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="http://www.sayedtag.me"><img src="https://img.shields.io/badge/🌍%20Website-www.sayedtag.me-1E90FF?style=for-the-badge" /></a>
+  <a href="http://www.sayedtag.me">
+    <img src="https://img.shields.io/badge/🌍%20Website-www.sayedtag.me-1E90FF?style=for-the-badge" alt="Website"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://linktr.ee/sayedtageldin"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=contactlesspayment&logoColor=white" /></a>
+  <a href="https://linktr.ee/sayedtageldin">
+    <img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=contactlesspayment&logoColor=white" alt="Contact"/>
+  </a>
 </p>
 
 ---
